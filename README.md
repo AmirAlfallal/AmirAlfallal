@@ -30,8 +30,8 @@ Web Developer focused on building clean, scalable solutions with maintainable co
 
 | Project | Tech Stack | Description | Link |
 |---------|------------|-------------|------|
-| Portfolio Website | HTML, CSS, JS | Personal portfolio to showcase projects and skills | [View →](https://github.com/AmirAlfallal/portfolio) |
-| Blog Platform | Python, PostgreSQL | Full-stack blog with authentication and CRUD operations | [View →](https://github.com/AmirAlfallal/blog-platform) |
+| Portfolio Website | HTML, CSS, JS | Personal portfolio to showcase projects and skills | [View](https://github.com/AmirAlfallal/portfolio) |
+| Blog Platform | Python, PostgreSQL | Full-stack blog with authentication and CRUD operations | [View](https://github.com/AmirAlfallal/blog-platform) |
 
 ---
 
