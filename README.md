@@ -1,12 +1,5 @@
 # Hi there, I'm Amir Alfallal 👋
-**Web Developer | Python & JavaScript Enthusiast | AI & DevOps Explorer**
-
----
-
-### 💻 About Me
-Web Developer focused on building clean, scalable solutions with maintainable code and intuitive user experiences.
-
----
+**Web Developer focused on building clean, scalable solutions with maintainable code and intuitive user experiences.**
 
 ### 🛠️ Tech Stack
 
