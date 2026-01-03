@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Amir Alfallal 👋
 
-<!--
-**AmirAlfallal/AmirAlfallal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | Building Clean & Scalable Solutions
 
-Here are some ideas to get you started:
+I specialize in creating intuitive user experiences and writing maintainable code. I love solving complex problems and turning ideas into functional web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Tools:** Git, VS Code, Figma
+
+### 🚀 What I'm Up To
+- 🔭 I’m currently working on some exciting web builds.
+- 🌱 Always learning new ways to improve performance & UX.
+
+### 📫 Connect with me:
+[Twitter/X](https://x.com/your_handle) | [LinkedIn](https://linkedin.com/in/your_profile)
+
+---
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAlfallal&show_icons=true&theme=dark)
