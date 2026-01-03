@@ -4,13 +4,7 @@
 ---
 
 ### 💻 About Me
-I am a **Web Developer** dedicated to building clean, scalable solutions.  
-I focus on writing maintainable code and creating intuitive user experiences.  
-Solving complex problems is my playground.
-
-### 💡 What Drives Me
-Building solutions that are both elegant under the hood and delightful to use.  
-I believe great code is code that others can understand and extend.
+Web Developer focused on building clean, scalable solutions with maintainable code and intuitive user experiences.
 
 ---
 
@@ -29,17 +23,6 @@ I believe great code is code that others can understand and extend.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 🤖 Tools & AI
-- **IDEs & Productivity:** VS Code, PyCharm, WebStorm, DataGrip
-- **AI Assistants:** Claude Code, OpenAI Codex, Gemini CLI
-
----
-
-### 🎯 Current Focus
-Mastering backend architecture patterns and database performance optimization for scalable web applications.
 
 ---
 
