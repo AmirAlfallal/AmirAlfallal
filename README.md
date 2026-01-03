@@ -4,7 +4,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Web Developer focused on building clean, scalable solutions with maintainable code and intuitive user experiences. I hold a Bachelor's degree in Information Systems from Mansoura University. Currently working as a Retail & Customer Site Technical Support Specialist at Telecom Egypt, I dedicate my evenings to what I'm most passionate about—writing code. After work, you'll find me coding until late into the night, constantly learning new technologies and refining my craft. I believe in writing code that not only works but is also easy to read, maintain, and scale.
+I'm a Web Developer focused on building clean, scalable, and maintainable solutions with intuitive user experiences.
+I hold a Bachelor's degree in Information Systems from Mansoura University and currently work as a Retail & Customer Site Technical Support Specialist at Telecom Egypt.
+Outside of work hours, I dedicate my time to coding, learning new technologies, and continuously refining my craft. I believe great code should be readable, maintainable, and built to scale.
 
 ## 🛠️ Tech Stack
 
