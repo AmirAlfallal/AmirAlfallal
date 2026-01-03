@@ -37,4 +37,4 @@ I am a **Web Developer** dedicated to building clean, scalable solutions. I focu
 ---
 
 ### 🚀 Recent Projects
-*Coming soon... (Working on building impactful web solutions!)*
+*Coming soon...*
