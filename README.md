@@ -17,6 +17,3 @@ I specialize in creating intuitive user experiences and writing maintainable cod
 
 ### 📫 Connect with me:
 [Twitter/X](https://x.com/your_handle) | [LinkedIn](https://linkedin.com/in/your_profile)
-
----
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAlfallal&show_icons=true&theme=dark)
