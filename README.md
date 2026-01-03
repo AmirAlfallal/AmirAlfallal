@@ -46,17 +46,6 @@ I believe great code is code that others can understand and extend.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAlfallal&show_icons=true&theme=dark&hide_border=true" alt="Amir's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAlfallal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Recent Projects
 
 | Project | Tech Stack | Description | Link |
