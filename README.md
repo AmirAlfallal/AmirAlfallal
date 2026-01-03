@@ -1,5 +1,9 @@
 # Hi there, I'm Amir Alfallal 👋
-**Web Developer focused on building clean, scalable solutions with maintainable code and intuitive user experiences.**
+**Web Developer** | Writing clean code and learning something new every day
+
+## About Me
+
+I'm a Web Developer focused on building clean, scalable solutions with maintainable code and intuitive user experiences. I believe in writing code that not only works but is also easy to read, maintain, and scale.
 
 ### 🛠️ Tech Stack
 
