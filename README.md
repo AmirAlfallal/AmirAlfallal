@@ -1,40 +1,75 @@
-# Hi there, I'm Amir Alfallal 👋 
+# Hi there, I'm Amir Alfallal 👋
+**Web Developer | Python & JavaScript Enthusiast | AI & DevOps Explorer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirAlfallal&label=Profile%20views&color=0e75b6&style=flat" alt="AmirAlfallal" />
-</p>
+---
 
 ### 💻 About Me
-I am a **Web Developer** dedicated to building clean, scalable solutions. I focus on writing maintainable code and creating intuitive user experiences. Solving complex problems is my playground.
+I am a **Web Developer** dedicated to building clean, scalable solutions.  
+I focus on writing maintainable code and creating intuitive user experiences.  
+Solving complex problems is my playground.
+
+### 💡 What Drives Me
+Building solutions that are both elegant under the hood and delightful to use.  
+I believe great code is code that others can understand and extend.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-#### 🌐 Frontend & Design
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### ⚙️ Backend & Database
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 #### 🚀 DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📫 Contact & Connect
-<p align="left">
-<a href="https://twitter.com/AmirAlfallal" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amiralfallal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amir.alfallal@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🤖 Tools & AI
+- **IDEs & Productivity:** VS Code, PyCharm, WebStorm, DataGrip
+- **AI Assistants:** Claude Code, OpenAI Codex, Gemini CLI
+
+---
+
+### 🌱 Currently Learning
+- Advanced Docker orchestration and Kubernetes
+- PostgreSQL optimization and query performance
+- Modern JavaScript frameworks (React/Vue)
+- Building robust REST APIs with FastAPI
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAlfallal&show_icons=true&theme=dark&hide_border=true" alt="Amir's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAlfallal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 Recent Projects
-*Coming soon...*
+
+| Project | Tech Stack | Description | Link |
+|---------|------------|-------------|------|
+| Portfolio Website | HTML, CSS, JS | Personal portfolio to showcase projects and skills | [View →](https://github.com/AmirAlfallal/portfolio) |
+| Blog Platform | Python, PostgreSQL | Full-stack blog with authentication and CRUD operations | [View →](https://github.com/AmirAlfallal/blog-platform) |
+
+---
+
+### 📫 Contact & Connect
+<p align="left">
+<a href="https://github.com/AmirAlfallal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/AmirAlfallal" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amiralfallal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:amir.alfallal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
