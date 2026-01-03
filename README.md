@@ -24,21 +24,3 @@ Web Developer focused on building clean, scalable solutions with maintainable co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=googlecloud&logoColor=white)
-
----
-
-### 🚀 Recent Projects
-
-| Project | Tech Stack | Description | Link |
-|---------|------------|-------------|------|
-| Portfolio Website | HTML, CSS, JS | Personal portfolio to showcase projects and skills | [View](https://github.com/AmirAlfallal/portfolio) |
-| Blog Platform | Python, PostgreSQL | Full-stack blog with authentication and CRUD operations | [View](https://github.com/AmirAlfallal/blog-platform) |
-
----
-
-### 📫 Contact & Connect
-<p align="left">
-<a href="https://twitter.com/AmirAlfallal" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amiralfallal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amir.alfallal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
