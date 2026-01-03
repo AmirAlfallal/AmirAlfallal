@@ -23,3 +23,9 @@ I'm a Web Developer focused on building clean, scalable solutions with maintaina
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=googlecloud&logoColor=white)
 
 ## 🤝 Let's Connect
+<p align="left">
+<a href="https://twitter.com/AmirAlfallal" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/amiralfallal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amir.alfallal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/766947708224667648" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
