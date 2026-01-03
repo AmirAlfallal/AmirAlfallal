@@ -29,8 +29,15 @@ I am a **Web Developer** dedicated to building clean, scalable solutions. I focu
 
 ### 📊 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmirAlfallal&show_icons=true&theme=radical&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAlfallal&layout=compact&theme=radical" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmirAlfallal&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmirAlfallal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAlfallal&theme=tokyonight" />
 </p>
 
 ---
