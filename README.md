@@ -38,11 +38,8 @@ I believe great code is code that others can understand and extend.
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Docker orchestration and Kubernetes
-- PostgreSQL optimization and query performance
-- Modern JavaScript frameworks (React/Vue)
-- Building robust REST APIs with FastAPI
+### 🎯 Current Focus
+Mastering backend architecture patterns and database performance optimization for scalable web applications.
 
 ---
 
@@ -57,7 +54,6 @@ I believe great code is code that others can understand and extend.
 
 ### 📫 Contact & Connect
 <p align="left">
-<a href="https://github.com/AmirAlfallal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/AmirAlfallal" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amiralfallal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:amir.alfallal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
